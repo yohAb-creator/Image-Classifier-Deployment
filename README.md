@@ -105,6 +105,7 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 📫 Contact
 
-Yohannes Abateneh - GitHub Profile - LinkedIn Profile
+Yohannes Abateneh - [GitHub Profile](https://github.com/yohAb-creator) - [LinkedIn Profile](https://www.linkedin.com/in/yohannes-abateneh-193612201)
+
 
 
