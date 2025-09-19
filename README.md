@@ -98,7 +98,7 @@ For maximum clarity and ease of use, all essential files are located in the root
     Batch Predictions: Create a /predict_batch endpoint to handle multiple images in a single request.
 
     Interactive Frontend: Develop a simple Streamlit or React frontend to allow users to upload images and see results in a browser.
-
+```
 📄 License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
@@ -106,4 +106,5 @@ This project is licensed under the MIT License. See the LICENSE file for details
 📫 Contact
 
 Yohannes Abateneh - GitHub Profile - LinkedIn Profile
+
 
