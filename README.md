@@ -83,7 +83,7 @@ JSON
 For maximum clarity and ease of use, all essential files are located in the root of this repository:
 
 .
-├── ML_API.ipynb
+├── Image_Classifier.ipynb
 ├── app.py
 ├── cifar10_resnet18_feature_extractor.pt
 ├── Dockerfile
@@ -105,4 +105,5 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 📫 Contact
 
-Yohannes Abebe - GitHub Profile - LinkedIn Profile
+Yohannes Abateneh - GitHub Profile - LinkedIn Profile
+
